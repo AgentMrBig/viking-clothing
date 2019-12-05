@@ -8,6 +8,7 @@ const HomePageContainer = Styled.div`
     flex-direction: column;
     align-items: center;
     padding: 20px 80px;
+    font-family: 'Anton', sans-serif;
 `;
 
 const HomePage = () => (
